@@ -110,9 +110,6 @@ A peak-hour surge multiplier (hours 13, 18–22 — the top-6 busiest hours) was
 
 > **Recommendation:** A 30% peak-hour surge is projected to increase revenue by 10% — achieved purely by concentrating pricing power in the hours demand data shows are already busiest, with no change to pricing at any other time.
 
-## Dashboard
-
-*(Add your Tableau Public link here once published, and replace this section with a screenshot: `![Dashboard](./outputs/dashboard.png)`)*
 
 ## Tech Stack
 
