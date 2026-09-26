@@ -9,7 +9,7 @@
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-regression-1AC0A3?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-dashboard-1AC0A3?style=flat-square)
 
-[**View Dashboard**](#) &nbsp;•&nbsp; [**View Presentation**](./uber_pricing_optimization.pptx) &nbsp;•&nbsp; [**Key Findings**](#key-findings)
+[**View Dashboard**](#) &nbsp;•&nbsp;  [**Key Findings**](#key-findings)
 
 </div>
 
